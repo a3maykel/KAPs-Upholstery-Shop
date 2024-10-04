@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <car id="101">
+        <name>Ford Ranger</name>
+        <category_id>6</category_id>
+        <slug>ford-ranger</slug>
+        <small_description>The Ford Ranger is a compact pick up.</small_description>
+        <description>The Ford Ranger is a compact or midsize pickup marketed globally by Ford over a series of generations</description>
+        <original_price>25000</original_price>
+        <discount>50</discount>
+        <selling_price></selling_price>
+        <quantity>25</quantity>
+        <status>0</status>
+        <trending>1</trending>
+        <meta_title>Ford Ranger Seat For Sale</meta_title>
+        <meta_description>Ford Ranger Seat For Sale</meta_description>
+        <meta_keywords>Ford Ranger Seat For Sale</meta_keywords>
+    </car>
+</catalog>
